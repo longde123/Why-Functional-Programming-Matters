@@ -25,7 +25,7 @@ game-playing programs). Since modularity is the key to successful programming,
 functional languages are vitally important to the real world.
 
 >
-随着软件变得越来越复杂，良好的结构变得愈发重要。具备良好结构的软件具备如下特性：易编写、易调试、提供一系列的可重用模块方便后续的编程开发。传统语言的先天特性使得模块化开发具备很多限制。函数式编程则是解决这些限制的良方。在本论文中会特别说明函数式编程语言大大有利于模块化开发的两个特性：高阶函数和延迟执行。在例子中，我们会通过使用list和树，编写几个数值算法，实现α-β启发式(从人工智能中使用的一种算法游戏程序)。届时模块化则是编程过程的关键，而函数式编程则是重中之重。
+随着软件变得越来越复杂，良好的结构变得愈发重要。具备良好结构的软件具备如下特性：易编写、易调试、提供一系列的可重用模块方便后续的编程开发。传统语言的先天特性使得模块化开发具备很多限制。函数式编程则是解决这些限制的良方。在本论文中会特别说明函数式编程语言大大有利于模块化开发的两个特性：高阶函数和延迟执行。在例子中，我们会通过使用list和树，编写几个数值算法，实现α-β启发式程序(从人工智能中使用的一种算法游戏程序)。届时模块化则是编程成功的关键要素，而函数式编程则是重中之重。
 
 ## 简介
 This paper is an attempt to demonstrate to the “real world” that functional
@@ -33,7 +33,7 @@ programming is vitally important, and also to help functional programmers
 exploit its advantages to the full by making it clear what those advantages are.
 
 >
-本论文试图展示函数式编程的重要性，然后帮助程序员充分明确并利用它的优点。
+本论文试图展示函数式编程的重要性，然后帮助程序员充分了解并利用函数式编程的优点。
 
 
 Functional programming is so called because a program consists entirely of
