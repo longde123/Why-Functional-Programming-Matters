@@ -1,14 +1,13 @@
 # Why-Functional-Programming-Matters
 函数式编程原始论文Why Functional Programming Matters 中文版翻译
 
-This paper dates from 1984, and circulated as a Chalmers memo for many
-years. Slightly revised versions appeared in 1989 and 1990 as [Hug90] and
-[Hug89]. This version is based on the original Chalmers memo nroff
-source, lightly edited for LaTeX and to bring it closer to the published versions,and with one or two errors corrected. Please excuse the slightly oldfashioned type-setting, and the fact that the examples are not in Haskell!
+现在函数式编程开始流行，它解决了传统结构化编程的一些问题。从身边的小伙伴多多少少都听过函数式编程的只言片语。但是对具体函数式编程是什么，能解决什么问题，它的优势在哪里，劣势在哪里，大体上是一知半解。
 
->
-本文始于1984年，多年来以备忘录形式传播。稍微修改后的版本出现在1989年([Hug89])和1990([Hug90])年,本文基于原始备忘录。
+这里找到函数式编程的原始论文的备忘录版，发现基本没中文，在这里翻译一个。
 
+大部分翻译是基于意译，并不是严格按照原文。
+
+水平有限，有疏漏请指正。
 
 [摘要](./Abstract.md)
 
